@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="..\HananokiLib\HListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="..\HananokiLib\LogWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="..\HananokiLib\TextBoxGuide.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="O:\Projects\CSTools\HananokiLib\HListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="O:\Projects\CSTools\HananokiLib\LogWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="O:\Projects\CSTools\HananokiLib\TextBoxGuide.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Source\iTunesUtilityWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Source\UIStatusBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UIListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UIToolBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
